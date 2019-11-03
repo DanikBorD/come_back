@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "addition_even_numbers", "addition_even_numbers\addition_even_numbers.csproj", "{EBED9D44-8CDF-4F48-8EB7-9C38FD5ECB04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBED9D44-8CDF-4F48-8EB7-9C38FD5ECB04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBED9D44-8CDF-4F48-8EB7-9C38FD5ECB04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBED9D44-8CDF-4F48-8EB7-9C38FD5ECB04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBED9D44-8CDF-4F48-8EB7-9C38FD5ECB04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "addition_even_numbers/1.0.0": {
+        "runtime": {
+          "addition_even_numbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "addition_even_numbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
